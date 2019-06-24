@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/change_theme"
+        android:title="@string/indigo_theme" />
+    <item
+        android:id="@+id/change_theme1"
+        android:title="@string/pink_theme" />
+    <item
+        android:id="@+id/change_theme2"
+        android:title="@string/green_ligth_theme" />
+
+</menu>

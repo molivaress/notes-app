@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">?themePrimary</item>
+        <item name="colorPrimaryDark">?themePrimaryDark</item>
+        <item name="colorAccent">?themeAccent</item>
+    </style>
+
+    <style name="AppTheme.LightGreen">
+        <item name="themePrimary">@color/greenLight</item>
+        <item name="themePrimaryDark">@color/greenLightDark</item>
+        <item name="themeAccent">@color/greenLightAccent</item>
+    </style>
+
+    <style name="AppTheme.Indigo">
+        <item name="themePrimary">@color/indigo</item>
+        <item name="themePrimaryDark">@color/indigoDark</item>
+        <item name="themeAccent">@color/indigoAccent</item>
+    </style>
+
+    <style name="AppTheme.Pink">
+        <item name="themePrimary">@color/pink</item>
+        <item name="themePrimaryDark">@color/pinkDark</item>
+        <item name="themeAccent">@color/pinkAccent</item>
+        <item name="themeContentBackground">@color/white</item>
+        <item name="themeContentTextColor">@color/black</item>
+        <item name="themeContentTextColoOnPrimary">@color/white</item>
+        <item name="themeTextColorSuccess">@color/green</item>
+        <item name="themeTextColorFailure">@color/red</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>

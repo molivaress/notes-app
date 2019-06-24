@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title_activity_home">Notas</string>
+    <string name="title_dashboard">Favoritos</string>
+    <string name="title_notifications">Perfil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_first_note">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</string>
+    <string name="content_second">over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through th</string>
+    <string name="content_third">Este esel contenido de mi nota.</string>
+    <string name="title_second">\"No Olvidar de comprar los ingredientes para Pizza\"</string>
+    <string name="title_third">No olvidar de terminar las tareas pendientes de programación</string>
+    <string name="title_first">Mi Primera nota</string>
+    <string name="title_change_theme">Cambiar Tema</string>
+    <string name="indigo_theme">Indigo</string>
+    <string name="pink_theme">Rosado</string>
+    <string name="green_ligth_theme">Verde Claro</string>
+</resources>
